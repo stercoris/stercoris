@@ -1,3 +1,3 @@
 ### Hello there 👋
 
-![hello](img/prorok.jpeg)
+<img src="img/prorok.jpeg" alt="drawing" style="width:400px;"/>
